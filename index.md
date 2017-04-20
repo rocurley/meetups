@@ -349,7 +349,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/1w0)
 
 [comment]: # (END_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
- 
 * San Jose, California
     * Meetup scheduled: Sunday April 9, 2017,  2  PM
     * Location: 3806 Williams Rd (private residence)
