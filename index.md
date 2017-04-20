@@ -341,6 +341,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
+
     * Meetup scheduled: Monday April 10, 2017,  6:15  PM
     * Location: Check [here](https://groups.google.com/forum/#!forum/bayarealesswrong) or ask contact below
     * Contact: rocurley( a t )gmail.com, (301) 458-0764, [Facebook event](https://www.facebook.com/events/1847657588815448/)
