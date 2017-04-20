@@ -339,7 +339,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Location: 4876 Santa Monica Avenue, Lazy Hummingbird
     * Contact: the.god.empress.celestia( a t )gmail.com
 
-[comment]: # (BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
+[comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
     * Meetup scheduled: April 24, 2017, 06:15 PM
@@ -348,7 +348,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
     * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/1w0)
 
-[comment]: # (END_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
+[comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
     * Meetup scheduled: Sunday April 9, 2017,  2  PM
     * Location: 3806 Williams Rd (private residence)
